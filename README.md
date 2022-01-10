@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com back-end.
 - 🌱 Estudando Java.
-- ⚡ Cursasndo faculdade.
+- ⚡ Cursasndo ciência da computação.
 ##
 
 <div align="center">
